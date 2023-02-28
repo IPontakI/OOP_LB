@@ -30,6 +30,7 @@ namespace WindowsFormsApp1
             label23.Text = "";
             result7.Text = "";
             result6.Text = "";
+            Wresult5.Text = "";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -314,7 +315,7 @@ namespace WindowsFormsApp1
             {
                 result3.Text = "True";
             }
-            else if (res4 % 2 == 0 && N <= 999 && N >= 100)
+            else if (res4 % 2 != 0 && N <= 999 && N >= 100)
             {
                 result3.Text = "False";
             }
