@@ -51,7 +51,7 @@ namespace WindowsFormsApp1
                                     }
                                 case 0:
                                     {
-                                        label3.Text = "Answer = " + Convert.ToString(integer.add());
+                                        label3.Text = "Answer = " + Convert.ToString(integer.Add());
                                         break;
                                     }
                                 case 1:
@@ -87,7 +87,7 @@ namespace WindowsFormsApp1
                                     }
                                 case 0:
                                     {
-                                        label3.Text = "Answer = " + Convert.ToString(real.add());
+                                        label3.Text = "Answer = " + Convert.ToString(real.Add());
                                         break;
                                     }
                                 case 1:
@@ -215,16 +215,19 @@ namespace WindowsFormsApp1
         {
             textBox1.Text = "";
             textBox2.Text = "";
+            label3.Text = "";
 
-            if(comboBox2.SelectedIndex == 0)
+            if (comboBox2.SelectedIndex == 0)
             {
                 textBox1.MaxLength = 5;
                 textBox2.MaxLength = 5;
+                //textBox1.Enabled = true;                
             }
             else
             {
                 textBox1.MaxLength = 8;
                 textBox2.MaxLength = 8;
+                //textBox1.Enabled = false;                
             }
         }
     }

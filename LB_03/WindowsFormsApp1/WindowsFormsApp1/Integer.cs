@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    internal class Integer : Number
+    public class Integer : Number <int>
     {
-        private int numA;
-        private int numB;
+        public int numA;
+        public int numB;
 
         public void setNumA(int a)
         {
@@ -21,9 +21,42 @@ namespace WindowsFormsApp1
             this.numB = b;
         }
 
-        public int add() { return numA + numB; }
-        public int subtraction() { return numA - numB; }
-        public int multiplication() { return numA * numB; }
-        public int division() { return numA / numB; }
-    }
+       /* public int Add()
+        {
+            return numA + numB;
+            throw new NotImplementedException();
+        }*/
+
+        public override int Add()
+        {
+            return numA + numB;
+            throw new NotImplementedException();
+        }
+
+        public override int division()
+        {
+            return numA - numB;
+            throw new NotImplementedException();
+        }
+
+        public override int multiplication()
+        {
+            return numA * numB;
+            throw new NotImplementedException();
+        }
+
+        public override int subtraction()
+        {
+            return numA / numB;
+            throw new NotImplementedException();
+        }
+
+
+
+        /* public int add() { return numA + numB; }
+         public int subtraction() { return numA - numB; }
+         public int multiplication() { return numA * numB; }
+         public int division() { return numA / numB; }*/
+
+    }    
 }

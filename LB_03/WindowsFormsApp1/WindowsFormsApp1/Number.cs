@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    abstract class Number
-    {           
-        protected int add() { return 0; }
-        protected int subtraction() { return 0; }
-        protected int multiplication() { return 0; }
-        protected int division() { return 0; }
+    public abstract class Number <T>
+    {
+        public abstract T Add();
+        public abstract T subtraction();
+        public abstract T multiplication();
+        public abstract T division();
     }
 }

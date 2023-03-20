@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    internal class Real : Number
+    class Real : Number <double>
     {
         private double numA;
         private double numB;
@@ -21,9 +21,39 @@ namespace WindowsFormsApp1
             this.numB = b;
         }
 
-        public double add() { return numA + numB; }
-        public double subtraction() { return numA - numB; }
-        public double multiplication() { return numA * numB; }
-        public double division() { return numA / numB; }
+        public override double Add()
+        {
+            return numA + numB;
+            throw new NotImplementedException();
+        }
+
+        public override double division()
+        {
+            return numA - numB;
+            throw new NotImplementedException();
+        }
+
+        public override double multiplication()
+        {
+            return numA * numB;
+            throw new NotImplementedException();
+        }
+
+        public override double subtraction()
+        {
+            return numA / numB;
+            throw new NotImplementedException();
+        }
+
+        
+
+        /* public double add() { return numA + numB; }
+         public double subtraction() { return numA - numB; }
+         public double multiplication() { return numA * numB; }
+         public double division() { return numA / numB; }*/
+
+
+
+
     }
 }
