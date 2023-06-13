@@ -1,0 +1,23 @@
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\bin\Debug\WindowsFormsApp90.exe.config
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\bin\Debug\WindowsFormsApp90.exe
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\bin\Debug\WindowsFormsApp90.pdb
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.Form1.resources
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.Properties.Resources.resources
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.SettingsForm.resources
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.exe
+C:\Users\Anton\source\repos\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.pdb
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\bin\Debug\WindowsFormsApp90.exe.config
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\bin\Debug\WindowsFormsApp90.exe
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\bin\Debug\WindowsFormsApp90.pdb
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.csproj.AssemblyReference.cache
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.csproj.SuggestedBindingRedirects.cache
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.Form1.resources
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.Properties.Resources.resources
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.SettingsForm.resources
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.csproj.GenerateResource.cache
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.csproj.CoreCompileInputs.cache
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.exe
+D:\!Валик\Универ\ООП\c#\LB_30\Православный интерфейс\WindowsFormsApp90\WindowsFormsApp90\obj\Debug\WindowsFormsApp90.pdb
