@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.Form1.resources
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\bin\Debug\net6.0-windows\ProcessManagerApp.exe
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\bin\Debug\net6.0-windows\ProcessManagerApp.deps.json
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\bin\Debug\net6.0-windows\ProcessManagerApp.runtimeconfig.json
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\bin\Debug\net6.0-windows\ProcessManagerApp.dll
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\bin\Debug\net6.0-windows\ProcessManagerApp.pdb
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.dll
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\refint\ProcessManagerApp.dll
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.pdb
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ProcessManagerApp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ProcessManagerApp\ProcessManagerApp\obj\Debug\net6.0-windows\ref\ProcessManagerApp.dll
